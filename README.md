@@ -2,6 +2,9 @@
  
  data analysis and machine learning
 
+modules used: sklearn, matplotlib, pandas, numpy
+Techniques used: histogramm, LinearRegression, DecisionTreeRegressor, SVR, linear_model.Lasso, RandomForestRegressor, calculations
+
 List of work: 
 * which product was sold the least amount?
 * which product was sold the most amount?
@@ -15,3 +18,6 @@ List of work:
 * Make sell prediction per day.
 
 P.s. dataset is not shared without permission.
+
+
+
