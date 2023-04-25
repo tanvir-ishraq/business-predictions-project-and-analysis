@@ -5,7 +5,7 @@
 modules used: sklearn, matplotlib, pandas, numpy
 Techniques used: histogramm, LinearRegression, DecisionTreeRegressor, SVR, linear_model.Lasso, RandomForestRegressor, calculations
 
-###### List of work: 
+### List of work: 
 * which product was sold the least amount?
 * which product was sold the most amount?
 * yearly how many amount of product are left in stock after sell?
