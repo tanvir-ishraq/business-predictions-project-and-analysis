@@ -3,6 +3,7 @@
  data analysis and machine learning
 
 modules used: sklearn, matplotlib, pandas, numpy
+
 Techniques used: histogramm, LinearRegression, DecisionTreeRegressor, SVR, linear_model.Lasso, RandomForestRegressor, calculations
 
 ### List of work: 
