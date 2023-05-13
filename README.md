@@ -18,7 +18,7 @@ Techniques used: histogramm, LinearRegression, DecisionTreeRegressor, SVR, linea
 * Find which product from every brands sold the most sequentially.
 * Make sell prediction per day.
 
-P.s. dataset is not shared without permission.
+P.s. dataset will not be shared without permission.
 
 
 
