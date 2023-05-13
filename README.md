@@ -1,6 +1,6 @@
 # project: Business data analysis and prediction
  
- data analysis and machine learning
+ ### data analysis and machine learning
 
 modules used: sklearn, matplotlib, pandas, numpy
 
