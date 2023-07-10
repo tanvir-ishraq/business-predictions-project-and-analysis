@@ -4,7 +4,7 @@
 
 modules used: sklearn, matplotlib, pandas, numpy
 
-Techniques used: histogramm, LinearRegression, DecisionTreeRegressor, SVR, linear_model.Lasso, RandomForestRegressor, calculations
+Techniques used: histogram, LinearRegression, DecisionTreeRegressor, SVR, linear_model.Lasso, RandomForestRegressor, calculations
 
 ### List of work: 
 * which product was sold the least amount?
