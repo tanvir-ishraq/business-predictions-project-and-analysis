@@ -43,15 +43,16 @@ Resources used:  `scikit-learn`, `LinearRegression()`
 ## Business analysis and prediction: 
 
 * Make sell prediction per day.
+  
 
-use satatistical method, visualization: <br>
+_use satatistical method, visualization:_ <br>
 apply `histogram()` on daily `Qty`(sell quantity) data.<br>
 use `mean()` addition to standard deviation `std()` to clean data.<br>
 pick percentage from histogram to pick per day sell prediction without `outlier`.<br>
 Resources used: <br>  `histogram`, `matplotlib`, `standard deviation`
 <br>
-use predictive method: <br>
 
+_use predictive method:_ <br>
 clean `Qty`(sell quantity) data removing `outliers`. 
 apply different regressors. benchmark models. <br>
 `DecisionTreeRegressor()` performs best. Improve model by using ensemble `RandomForestRegressor()` which gives the highest result.<br>
@@ -80,7 +81,8 @@ from multiple dimensions:
 * In terms of money
 * In terms of Quantity
 * Brand-wise
-* Item-wise <br>
+* Item-wise
+
 Resources used: `pandas`
 
 
@@ -90,9 +92,10 @@ Resources used: `pandas`
 * Find profit yearly. 
 
 `groupby()` Transaction Type and then year.<br>
-for every year 2018, 2019, 2020, 2021 calculated cumulative buy money and sell earning to further figure out profit .
+for every year 2018, 2019, 2020, 2021 calculated cumulative buy money and sell earning to further figure out profit.
 
-<br> <br>
+<br>
+
 and more:
 * Predict profit for next year.
 * Find profit of product of every brands sequentially.
@@ -103,3 +106,33 @@ P.s. this specific dataset will not be shared without permission as request of d
 libraries used: `sklearn`, `pandas`, `matplotlib`, `numpy`<br>
 
 Techniques used: histogram, standard deviation, outlier processing, yearly data find, LinearRegression, DecisionTreeRegressor, SVR, linear_model.Lasso, RandomForestRegressor <br> 
+
+<br>
+
+using the repository:
+1. Download the repository on your pc using the following command.
+```bash
+git clone https://github.com/tanvir-ishraq/business-predictions-project-and-analysis.git
+```
+2. Activate the virtual environment
+On Windows:
+```bash
+virtualenv venv
+venv\Scripts\activate
+```
+On Mac/Linux:
+```bash
+virtualenv --no-site-packages  venv
+source venv/bin/activate
+```
+3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+4. Use jupyter notebook, VSCode or google colaboratory as your choice. <br>
+e.g. Open jupyter notebook by running the following command in the terminal
+```bash
+jupyter notebook
+```
+5. Navigate codes, read git documentation and run the cells. Further information are given in the comments of notebook.
+
