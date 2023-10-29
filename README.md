@@ -7,7 +7,18 @@ All works in this project falls into one of two types:
 * Business prediction and data science
 
 # Works: 
-This project worked with multiple sheets under the same csv file.
+This project worked with multiple sheets under the same csv file.<br>
+List of all works for reference: <br>
+* which product was sold the least amount? 
+* which product was sold the most amount? 
+* yearly how many amount of product are left in stock after sell? 
+* Predict the amount of product are left in stock for Next year. 
+* Predict the amount of money to inverst for Next year. 
+* Find profit yearly.
+* Predict profit for next year.
+* Find profit of product of every brands sequentially.
+* Find which product from every brands sold the most sequentially.
+* Make sell prediction per day.
 
 ## Business analysis and data analysis:
 * yearly how many amount of product are left in stock after sell?
@@ -92,16 +103,3 @@ P.s. this specific dataset will not be shared without permission as request of d
 libraries used: `sklearn`, `pandas`, `matplotlib`, `numpy`<br>
 
 Techniques used: histogram, standard deviation, outlier processing, yearly data find, LinearRegression, DecisionTreeRegressor, SVR, linear_model.Lasso, RandomForestRegressor <br> 
-
-<br> <br>
-finally, List of all works for reference: <br>
-* which product was sold the least amount? 
-* which product was sold the most amount? 
-* yearly how many amount of product are left in stock after sell? 
-* Predict the amount of product are left in stock for Next year. 
-* Predict the amount of money to inverst for Next year. 
-* Find profit yearly.
-* Predict profit for next year.
-* Find profit of product of every brands sequentially.
-* Find which product from every brands sold the most sequentially.
-* Make sell prediction per day.
