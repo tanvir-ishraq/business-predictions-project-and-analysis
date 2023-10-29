@@ -1,5 +1,5 @@
 
-# Project: Business data analysis & predictions
+# Project: Business predictions with analysis 
 This is a Business storage, sells based predictions and anylysis project. <br> 
 This notebook uses Raw Pandas on tabular data with statistics and makes data science predictions. 
 All works in this project falls into one of two types: 
